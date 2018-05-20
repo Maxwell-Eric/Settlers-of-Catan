@@ -6,8 +6,6 @@ import java.awt.Point;
 public class HarborList extends LinkedList<Harbor>
 {
    
-   
-   
    public HarborList(double scale)
    {
       List<Point> points = new LinkedList<>();
