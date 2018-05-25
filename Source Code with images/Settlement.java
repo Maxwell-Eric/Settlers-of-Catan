@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 public class Settlement extends GamePiece
 {
    /**************
-    * Contructor
+    * Constructor
     **************/
    
    /**
