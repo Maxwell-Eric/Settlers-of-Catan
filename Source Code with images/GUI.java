@@ -5,7 +5,6 @@ import javax.swing.border.BevelBorder;
 import javax.swing.*;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
-import java.awt.Color;
 
 /**
  * R2.0.0
