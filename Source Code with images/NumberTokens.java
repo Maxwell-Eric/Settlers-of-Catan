@@ -3,9 +3,7 @@ package jem;
 import java.awt.Image;
 import javax.imageio.ImageIO;
 import javax.swing.JOptionPane;
-import java.io.IOException;
 import java.util.LinkedList;
-import java.util.List;
 import java.util.Collections;
 
 /**
