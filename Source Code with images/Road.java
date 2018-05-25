@@ -2,12 +2,8 @@ package jem;
 
 import javax.imageio.ImageIO;
 import javax.swing.JOptionPane;
-import java.io.IOException;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
-import java.awt.Image;
-import java.awt.Point;
-import java.util.List;
 
 
 /**
