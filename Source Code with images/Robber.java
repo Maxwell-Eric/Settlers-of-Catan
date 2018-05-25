@@ -21,7 +21,7 @@ public class Robber extends GamePiece
    
    
    /**************
-    * Contructor
+    * Constructor
     **************/
    
    /**
