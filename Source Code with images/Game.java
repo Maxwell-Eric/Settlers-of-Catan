@@ -12,7 +12,7 @@ import javax.swing.*;
  * Game class
  *
  * Creates a frame for the Board and GUI that scales to the screen's native image
- * Sets the initial Settlments and Roads for each player
+ * Sets the initial Settlements and Roads for each player
  * Static methods create a JOptionPane for selecting items from a list
  */
 public class Game extends javax.swing.JFrame implements java.awt.event.ActionListener
@@ -166,11 +166,11 @@ public class Game extends javax.swing.JFrame implements java.awt.event.ActionLis
       if(source == overView)
          JOptionPane.showMessageDialog(this,"<html>The game board consists of 19 hexagonal resource tiles. Each tile is associated with one resource, except the desert tile, which does not produce a resource."+
                                             "<br>Mountains produce Ore, Hills produce Brick, Forests produce Lumber, Fields produce Grain and Valleys produce Wool. Each resource tile, which is not the desert, has a number in the middle."+
-                                            "<br>The desert begins with the robber. To begin each turn, the current player ‘rolls’ the dice. If the value of the dice roll is equal to the number in tile, that tile produces resources for that round."+
+                                            "<br>The desert begins with the robber. To begin each turn, the current player â€˜rollsâ€™ the dice. If the value of the dice roll is equal to the number in tile, that tile produces resources for that round."+
                                             "<br>Players receive one resource for each settlement and two resources for each city on the corners of that tile. Players will use these resources to build roads, settlements and cities."+
                                             "<br>Development cards may also be purchased with these resources. Each player owns 5 settlements, 4 cities and 15 roads. The winner is the first to score 10 victory points."+
                                             "<br>Victory points can be earned in a variety of ways, which will be covered through the user manual in the appropriate sections."+
-                                            "<br>The current player’s score, resources, game pieces, development cards and build costs may be referenced on the GUI. ", "Settlers of Catan", JOptionPane.INFORMATION_MESSAGE);
+                                            "<br>The current playerâ€™s score, resources, game pieces, development cards and build costs may be referenced on the GUI. ", "Settlers of Catan", JOptionPane.INFORMATION_MESSAGE);
       
       //If the set up help menu item was pressed         
       if(source == setUp)
@@ -191,9 +191,9 @@ public class Game extends javax.swing.JFrame implements java.awt.event.ActionLis
       
       //If the building help menu item was pressed                            
       if(source == building)
-         JOptionPane.showMessageDialog(this,"<html><b>Roads cost 1 brick and 1 lumber to build. They may be built along tile edges which are adjacent to edges which already have one of the current player’s roads."+
-                                            "<br>Buttons will pop up when you click the ‘Build Road’ button on the GUI."+
-                                            "<br><br>Settlements cost 1 brick, 1 lumber, 1 grain and 1 wool to build. They may be built at tile corners which have one of the player’s roads in an adjacent tile edge."+
+         JOptionPane.showMessageDialog(this,"<html><b>Roads cost 1 brick and 1 lumber to build. They may be built along tile edges which are adjacent to edges which already have one of the current playerâ€™s roads."+
+                                            "<br>Buttons will pop up when you click the â€˜Build Roadâ€™ button on the GUI."+
+                                            "<br><br>Settlements cost 1 brick, 1 lumber, 1 grain and 1 wool to build. They may be built at tile corners which have one of the playerâ€™s roads in an adjacent tile edge."+
                                             "<br>Also, they must be at least two corners away from any other settlements. When you request to build a settlement, buttons will appear in places where builds may take place."+
                                             "<br>Settlements are worth 1 victory point."+
                                             "<br><br>Cities cost 3 ore and 2 grain resources to build. Cities may only be placed where a settlement currently exists."+
@@ -203,7 +203,7 @@ public class Game extends javax.swing.JFrame implements java.awt.event.ActionLis
       
       //If the development cards help menu item was pressed                         
       if(source == devCards)
-         JOptionPane.showMessageDialog(this,"<html>Development cards can be purchased for 1 ore, 1 grain and 1 wool. To buy a development card, click the ‘Buy Dev Card’ button."+
+         JOptionPane.showMessageDialog(this,"<html>Development cards can be purchased for 1 ore, 1 grain and 1 wool. To buy a development card, click the â€˜Buy Dev Cardâ€™ button."+
                                             "There are five distinct types of development cards."+
                                             "<br><br>    1.	Victory Point: When played, these add one to your score. There are 5 in the deck."+
                                             "<br><br>    2.	Year of Plenty: When played, you may choose two resources of any type. There are 2 in the deck."+
@@ -214,16 +214,16 @@ public class Game extends javax.swing.JFrame implements java.awt.event.ActionLis
                                             "<br><br>    5.	Knight Card: When played, the current player may move the robber and steal a resource from a player with a settlement"+
                                             "<br>           or a city on the corner of the tile where the robber is moved. Players with more than 7 cards do not have to remove resources."+
                                             "<br>           There are 14 in the deck."+
-                                            "<br>           •	Army Size: The number of knight’s a player has played."+
-                                            "<br>           •	Largest Army: The first player to play 3 knights receives the ‘Largest Army’ title, which counts for 2 victory points."+
-                                            "<br>              For another player to take the ‘Largest Army’ title, they must surpass the size of the current ‘Largest Army.’"+
-                                            "<br><br>To use a development card, click the ‘Use Dev Card’ button.  A window will pop up showing your development cards."+
+                                            "<br>           â€¢	Army Size: The number of knightâ€™s a player has played."+
+                                            "<br>           â€¢	Largest Army: The first player to play 3 knights receives the â€˜Largest Armyâ€™ title, which counts for 2 victory points."+
+                                            "<br>              For another player to take the â€˜Largest Armyâ€™ title, they must surpass the size of the current â€˜Largest Army.â€™"+
+                                            "<br><br>To use a development card, click the â€˜Use Dev Cardâ€™ button.  A window will pop up showing your development cards."+
                                             "<br>To use one, click on the appropriate button. You can close the window without using a card.", "Settlers of Catan", JOptionPane.INFORMATION_MESSAGE);
       
       //If the trade help menu item pressed   
       if(source == trade)
          JOptionPane.showMessageDialog(this,"<html>Trading resources is very useful. When you trade, you can build more and can avoid having to remove resources when a 7 is rolled."+
-                                            "<br>To trade, click the ‘Trade’ button.  A window listing your resources will pop up. Click the resource you want to offer in the trade."+
+                                            "<br>To trade, click the â€˜Tradeâ€™ button.  A window listing your resources will pop up. Click the resource you want to offer in the trade."+
                                             "<br>You may offer more than one resource in the trade."+
                                             "<br><br>Choose which resource you are requesting in the trade. You may request more than one resource."+
                                             "<br>When you are finished requesting resources, each player who has the requested resources will be offered the trade."+
