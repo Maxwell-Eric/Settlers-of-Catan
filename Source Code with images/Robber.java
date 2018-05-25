@@ -1,8 +1,6 @@
 package jem;
 
-import java.awt.Image;
 import javax.imageio.ImageIO;
-import java.io.IOException;
 import javax.swing.JOptionPane;
 
 /**
