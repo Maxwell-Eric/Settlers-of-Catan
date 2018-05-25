@@ -1,12 +1,7 @@
 package jem;
 
-import java.awt.Point;
 import java.awt.Image;
-import java.util.List;
-import java.util.LinkedList;
-import java.util.Collections;
 import javax.imageio.ImageIO;
-import java.io.IOException;
 import javax.swing.JOptionPane;
 
 /**
@@ -45,7 +40,7 @@ public class Tile
    
    
    /**************
-    * Contructors
+    * Constructors
     **************/
    
    /**
