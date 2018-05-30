@@ -1,2 +1,2 @@
 # SoC-Software-Engineering-Project
-Settlers of Catan
+This project is based of the boaard game Settlers of Catan. The 
