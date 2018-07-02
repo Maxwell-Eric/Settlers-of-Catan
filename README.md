@@ -1,10 +1,10 @@
 # SoC-Software-Engineering-Project
 - This project is based of the boaard game Settlers of Catan. 
-- The user manual come with comoplete instructions and there is an in game menu with instructions.
-- Design documentation is included with UML diagrams drawn in Microsoft Visio
+- The user manual come with comoplete instructions and there is an in game help menu with instructions and information.
+- Design documentation is included with UML diagrams drawn in Microsoft Visio.
 - This is a large project with many classes. A jar file is available.
 - Gif files are too big to include.
-- Images with descriptions below show some typical game play and user interactions
+- Images with descriptions below show some typical game play and user interactions.
 
 ### Start Window:
 
