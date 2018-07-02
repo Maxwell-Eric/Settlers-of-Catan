@@ -1,17 +1,14 @@
 # SoC-Software-Engineering-Project
-- This project is based of the boaard game Settlers of Catan. 
-- The user manual come with comoplete instructions and there is an in game help menu with instructions and information.
+- This is an object oriented design project based of the board game Settlers of Catan written in Java. 
+- This is a large project with 31 classes. A jar file is available.
+- The classes demonstrate information hiding, encapsulation, abstraction, inheritance and polymorphism. 
+- The user manual comes with complete instructions along with an in game help menu that includes instructions and information.
 - Design documentation is included with UML diagrams drawn in Microsoft Visio.
-- This is a large project with many classes. A jar file is available.
-- Gif files are too big to include.
-- Images with descriptions below show some typical game play and user interactions.
-- ### Instructions are displayed when a player tries to accomplish a task or end a turn.
+- Videos with descriptions below show some typical game play and user interactions.
+- Instructions are displayed when a player tries to accomplish a task or end a turn.
+- Information messages are displayed when actions are accomplished.
+- Error message displayed when user tries to perform an illegal move or action.
 - Buttons are displayed for legal game piece locations when appropriate
-### User selects developement card to play. Legal road locations are displayed with buttons. Click button to add a road:
-### Message displayed when action is performed. Viewing a development card in this case:
-### Message Displayed when legal move is performed. Buying a development card in this case:
-### Error message displayed when user tries to perform an illegal move:
-### Message displayed when "Dice are Rolled":
 
 ### Start Window:
 
@@ -25,8 +22,3 @@
 <br><br><br>
 ### In game help menu included
 ![help_menu](https://user-images.githubusercontent.com/24630618/42180551-f2706b02-7df4-11e8-96e2-16b74095d100.gif)
-
-
-
-
-
