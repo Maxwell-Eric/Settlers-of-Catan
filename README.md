@@ -13,11 +13,8 @@
 ### Instructions are displayed when a player tries to accomplish a task or end a turn:
 ![screenshot 1](https://user-images.githubusercontent.com/24630618/42173570-bdef6ea4-7ddc-11e8-9165-9e26e7c9f240.png)
 <br><br><br>
-### Placing a Settlement. Buttons are created for legal settlement locations:
-![screenshot 2](https://user-images.githubusercontent.com/24630618/42173757-4e5876ca-7ddd-11e8-97d7-4dfc260f5b22.png)
-<br><br><br>
-### Placing a road. Buttons are created for legal road locations:
-![screenshot 3](https://user-images.githubusercontent.com/24630618/42173746-4d015bf2-7ddd-11e8-98c2-f8872d653c56.png)
+### Placing a Settlement and Road. Buttons are created for legal settlement and road locations:
+![gifmaker_20180702110759852](https://user-images.githubusercontent.com/24630618/42177034-5d6defe0-7de8-11e8-9487-6cf8f57e8e79.gif)
 <br><br><br>
 ### Once the initial settlements and roads are placed, the buttons in the GUI are added for normal game play:
 ![screenshot 4](https://user-images.githubusercontent.com/24630618/42173747-4d1ab0f2-7ddd-11e8-9940-75db9dad073b.png)
