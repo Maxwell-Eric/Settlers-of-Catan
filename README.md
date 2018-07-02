@@ -36,10 +36,7 @@
 ![screenshot 10](https://user-images.githubusercontent.com/24630618/42173754-4db75f1a-7ddd-11e8-8d36-0ca35e49f827.png)
 <br><br><br>
 ### In game help menu included
-![screenshot 12](https://user-images.githubusercontent.com/24630618/42175020-5fd847c8-7de1-11e8-9230-33e84383f9cc.png)
-<br><br><br>
-### Help with building menu option chosen
-![screenshot 13](https://user-images.githubusercontent.com/24630618/42175021-5ff7a6b8-7de1-11e8-9171-a9d69b4dbef8.png)
+![help_menu](https://user-images.githubusercontent.com/24630618/42180551-f2706b02-7df4-11e8-96e2-16b74095d100.gif)
 
 
 
