@@ -5,16 +5,17 @@
 - This is a large project with many classes. A jar file is available.
 - Gif files are too big to include.
 - Images with descriptions below show some typical game play and user interactions.
+- ### Instructions are displayed when a player tries to accomplish a task or end a turn.
+- Buttons are displayed for legal game piece locations when appropriate
 
 ### Start Window:
 
 ![settlers of catan 6_30_2018 7_55_50 pm](https://user-images.githubusercontent.com/24630618/42130358-012c814a-7ca0-11e8-93c4-14c3d6a46e2c.png)
 
-### Instructions are displayed when a player tries to accomplish a task or end a turn:
-![screenshot 1](https://user-images.githubusercontent.com/24630618/42173570-bdef6ea4-7ddc-11e8-9165-9e26e7c9f240.png)
+
 <br><br><br>
-### Placing a Settlement and Road. Buttons are created for legal settlement and road locations:
-![gifmaker_20180702110759852](https://user-images.githubusercontent.com/24630618/42177034-5d6defe0-7de8-11e8-9487-6cf8f57e8e79.gif)
+### Set up sequence. Each player sets two settlements and two roads which must be adjacent to the settlements.
+![2018-07-02_11-58-47](https://user-images.githubusercontent.com/24630618/42178969-8468520a-7def-11e8-97ad-48e3f29f49cc.gif)
 <br><br><br>
 ### Once the initial settlements and roads are placed, the buttons in the GUI are added for normal game play:
 ![screenshot 4](https://user-images.githubusercontent.com/24630618/42173747-4d1ab0f2-7ddd-11e8-9940-75db9dad073b.png)
@@ -39,3 +40,8 @@
 <br><br><br>
 ### Help with building menu option chosen
 ![screenshot 13](https://user-images.githubusercontent.com/24630618/42175021-5ff7a6b8-7de1-11e8-9171-a9d69b4dbef8.png)
+
+
+
+
+
