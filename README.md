@@ -20,5 +20,8 @@
 ### Once the game is initialized, the GUI buttons are added for standard game play:
 ![standard_play](https://user-images.githubusercontent.com/24630618/42180692-6b1f532e-7df5-11e8-97ae-45e51c97cb37.gif)
 <br><br><br>
+### More gameplay
+![more_standard_play](https://user-images.githubusercontent.com/24630618/42182256-d893c642-7dfa-11e8-8f05-18be3dec17a6.gif)
+<br><br><br>
 ### In game help menu included:
 ![help_menu](https://user-images.githubusercontent.com/24630618/42180551-f2706b02-7df4-11e8-96e2-16b74095d100.gif)
