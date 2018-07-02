@@ -17,7 +17,7 @@
 ### Set up sequence. Each player sets two settlements and two adjacent roads:
 ![2018-07-02_11-58-47](https://user-images.githubusercontent.com/24630618/42178969-8468520a-7def-11e8-97ad-48e3f29f49cc.gif)
 <br><br><br>
-### Once the initial settlements and roads are placed, the GUI buttons are added for standard game play:
+### Once the game is initialized, the GUI buttons are added for standard game play:
 ![standard_play](https://user-images.githubusercontent.com/24630618/42180692-6b1f532e-7df5-11e8-97ae-45e51c97cb37.gif)
 <br><br><br>
 ### In game help menu included:
