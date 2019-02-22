@@ -1,8 +1,5 @@
-# SoC-Software-Engineering-Project
-- Created for Software Engineering Capstone Class
-- I was team leader, architect, UML drawings creator, coder, requirements gatherer and responsible for the user manual.
+# SoC
 - This is an object oriented design project based of the board game Settlers of Catan written in Java
-- This is a large project with 31 classes. A jar file is available.
 - The classes demonstrate information hiding, encapsulation, abstraction, inheritance and polymorphism. 
 - The user manual comes with complete instructions along with an in game help menu that includes instructions and information.
 - Design documentation is included with UML diagrams drawn in Microsoft Visio.
